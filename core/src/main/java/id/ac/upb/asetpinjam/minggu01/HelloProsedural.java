@@ -24,3 +24,4 @@ public static String sapa(String nama, String nim) {
         System.out.println(sapa(v.nama, v.nim));
     }
 }
+

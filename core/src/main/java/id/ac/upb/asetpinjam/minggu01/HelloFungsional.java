@@ -25,3 +25,4 @@ public final class HelloFungsional {
         System.out.println(pembuatSapaan(v.nim).apply(v.nama));
     }
 }
+

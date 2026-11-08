@@ -25,4 +25,5 @@ public class HelloOOP {
         System.out.println(new HelloOOP(v.nama, v.nim).sapa());
     }
 }
+
     
