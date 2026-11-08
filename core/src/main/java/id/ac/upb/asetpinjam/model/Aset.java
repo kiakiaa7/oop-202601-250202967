@@ -87,3 +87,4 @@ public class Aset implements DapatDipinjam {
         throw new UnsupportedOperationException("TODO minggu 4");
     }
 }
+
