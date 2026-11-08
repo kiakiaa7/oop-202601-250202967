@@ -1,5 +1,4 @@
-# Catatan Minggu NN: (topik)
-Struktur OOP: Class, Object, Encapsulation
+# Catatan Minggu 02 : Struktur OOP: Class, Object, Encapsulation
 
 ## Yang saya kerjakan
 Pada minggu 2, saya mengerjakan class Aset dengan menerapkan konsep encapsulation. Saya menambahkan field kode, nama, status, dan kondisi dengan access modifier private. Saya juga membuat konstruktor, getter, dan setter untuk mengakses serta mengubah data aset. Selain itu, saya menambahkan validasi agar kode dan nama tidak boleh kosong serta status dan kondisi tidak boleh bernilai null.
