@@ -4,7 +4,7 @@
 Pada minggu 2, saya mengerjakan class Aset dengan menerapkan konsep encapsulation. Saya menambahkan field kode, nama, status, dan kondisi dengan access modifier private. Saya juga membuat konstruktor, getter, dan setter untuk mengakses serta mengubah data aset. Selain itu, saya menambahkan validasi agar kode dan nama tidak boleh kosong serta status dan kondisi tidak boleh bernilai null.
 
 ## Keputusan desain
-Saya menggunakan access modifier private agar data aset tidak dapat diubah secara langsung dari luar class. Saya menggunakan getter dan setter sebagai cara untuk mengakses dan mengubah data. Status awal aset ditetapkan menjadi TERSEDIA, sedangkan kondisi awalnya BAIK. Saya menggunakan IllegalArgumentException untuk menangani data yang tidak valid.
+Saya menggunakan access modifier private agar data aset tidak dapat diubah secara langsung dari luar class. Saya menggunakan getter dan setter sebagai cara untuk mengakses dan mengubah data. Status awal aset ditetapkan menjadi tersedia, sedangkan kondisi awalnya baik. Saya menggunakan IllegalArgumentException untuk menangani data yang tidak valid.
 
 ## Kendala
 Kendala yang saya temui adalah memahami cara menerapkan encapsulation dan validasi pada Java. Saya mengatasinya dengan mempelajari fungsi getter, setter, konstruktor, dan penggunaan IllegalArgumentException. Saya juga memperhatikan agar data aset tidak dapat diisi dengan nilai kosong atau null.
