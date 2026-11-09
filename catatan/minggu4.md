@@ -17,3 +17,4 @@ masih bingung dengan cara memahami penerapan polymorphism pada class induk dan s
 - Prompt utama: untuk prompt nya saya bilang gini, 'bisa tolong jelasin ini maksudnya gimana'
 - Yang saya ubah atau tolak dari saran AI, dan alasannya: saya menolak kode dari ai nya
 - Satu hal yang saya pahami lebih baik sekarang: lumayan paham bahwa polymorphism memungkinkan method dengan nama yang sama memiliki perilaku berbeda melalui overriding pada subclass. dan juga sedikit memahami bahwa overloading memungkinkan beberapa method memiliki nama yang sama tetapi parameter berbeda.
+
