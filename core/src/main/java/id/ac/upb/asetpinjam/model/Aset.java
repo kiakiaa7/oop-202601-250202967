@@ -93,3 +93,4 @@ public abstract class Aset implements DapatDipinjam {
     }
 }
 
+

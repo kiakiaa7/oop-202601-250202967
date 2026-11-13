@@ -19,3 +19,4 @@ masih bingung dengan cara memahami penerapan polymorphism pada class induk dan s
 - Satu hal yang saya pahami lebih baik sekarang: lumayan paham bahwa polymorphism memungkinkan method dengan nama yang sama memiliki perilaku berbeda melalui overriding pada subclass. dan juga sedikit memahami bahwa overloading memungkinkan beberapa method memiliki nama yang sama tetapi parameter berbeda.
 
 
+
